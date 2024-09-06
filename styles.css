@@ -1,8 +1,18 @@
+body{
+  overflow: hidden;
+}
+.heading{
+  text-align: center;
+  font-size:30px;
+}
 .wheel {
   border: 2px solid black;
   border-radius: 50%;
   margin-left: 50px;
   position: absolute;
+  margin-top: 50px;
+  Left: 388px;
+  top:40px;
   height: 55vw;
   width: 55vw;
   max-width: 500px;
